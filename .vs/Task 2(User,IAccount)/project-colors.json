@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d9a43de-668b-44c8-88d4-01530b48b9bc": {
+      "ProjectGuid": "7d9a43de-668b-44c8-88d4-01530b48b9bc",
+      "DisplayName": "Task 2(User,IAccount)",
+      "ColorIndex": 0
+    },
+    "ca385134-524c-41d0-aceb-00787028062c": {
+      "ProjectGuid": "ca385134-524c-41d0-aceb-00787028062c",
+      "DisplayName": "Utilities",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

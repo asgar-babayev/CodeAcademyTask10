@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Task 2(User,IAccount)/1.0.0": {
-        "dependencies": {
-          "Utilities": "1.0.0"
-        },
-        "runtime": {
-          "Task 2(User,IAccount).dll": {}
-        }
-      },
       "Utilities/1.0.0": {
         "runtime": {
           "Utilities.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Task 2(User,IAccount)/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,

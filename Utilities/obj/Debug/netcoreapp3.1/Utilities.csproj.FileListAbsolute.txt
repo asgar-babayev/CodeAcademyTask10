@@ -1,0 +1,10 @@
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\bin\Debug\netcoreapp3.1\Utilities.deps.json
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.AssemblyReference.cache
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfoInputs.cache
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfo.cs
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\asger\Desktop\Tasks\Task 2(User,IAccount)\Utilities\obj\Debug\netcoreapp3.1\Utilities.pdb
